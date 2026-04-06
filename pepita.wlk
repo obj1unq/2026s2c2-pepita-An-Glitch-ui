@@ -1,10 +1,3 @@
-object pepita {
-  var energia = 100
-  
-  method volar() {
-    energia = energia - 10
-  }
-}
 
 // subido acá porque no me deja subir el repo :) 
 object pepita {
